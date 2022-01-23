@@ -1,4 +1,4 @@
-package com.microserbices.customer;
+package customer;
 
 import lombok.Data;
 
