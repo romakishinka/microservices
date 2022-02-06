@@ -1,4 +1,4 @@
-package customer;
+package com.amigoscode.customer;
 
 import lombok.Data;
 
